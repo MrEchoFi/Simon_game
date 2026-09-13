@@ -12,6 +12,13 @@ Retro Simon recreates the classic Simon-style memory challenge while adding mode
 > **Target:** Linux, Windows, macOS
 
 ---
+## Video
+
+
+
+https://github.com/user-attachments/assets/8145a3e0-635e-4596-ad4c-3a3a55a12cd5
+
+
 
 ## Table of Contents
 
